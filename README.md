@@ -1,5 +1,5 @@
 # RenoDXChecker HDR Game Mods on Windows 2026
-[![Stars](https://img.shields.io/github/stars/YOURUSERNAME/RenoDXChecker-HDR-Game-Mods)](https://github.com/YOURUSERNAME/RenoDXChecker-HDR-Game-Mods) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/Miky91350/RenoDXChecker-HDR-Game-Mods-on-Windows)](https://github.com/Miky91350/RenoDXChecker-HDR-Game-Mods-on-Windows) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Complete ready-to-use **RenoDXChecker HDR Game Mods** for Windows — the ultimate tool to check RenoDX compatibility and enable high-quality HDR mods in supported games. Detects game compatibility, applies advanced RenoDX HDR rendering, improves lighting, colors, contrast, and overall visual quality with proper HDR support.
 
